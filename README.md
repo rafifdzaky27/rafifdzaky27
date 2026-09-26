@@ -4,7 +4,7 @@
 
 **DevOps Engineer · CI/CD Automation · Infrastructure**
 
-[LinkedIn](https://www.linkedin.com/in/rafifdzaky) · [Email](mailto:rafifdzaky27@gmail.com) · [GitHub](https://github.com/rafifdzaky27)
+[Portfolio](rafifdzaky.com) · [LinkedIn](https://www.linkedin.com/in/rafifdzaky) · [Email](mailto:rafifdzaky27@gmail.com) · [GitHub](https://github.com/rafifdzaky27)
 
 </div>
 
